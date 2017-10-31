@@ -1,59 +1,38 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 姓名：黄崧 (1700091005@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/huang9824
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### 1. 基本资料
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+### 2. 兴趣爱好
 
 ---
 
-## 第一部分
+## 基本资料
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+# 姓名：黄崧
+# 院系：化学学院
+# 学号：17000091005
 
 ---
 
-## 插图
+## 兴趣爱好
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+# 运动
+# 音乐
+# 化妆
+# 扮鬼
 
 ---
 
